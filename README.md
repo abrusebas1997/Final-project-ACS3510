@@ -1,6 +1,6 @@
 # Final-project-ACS3510
 
-![alt text]()
+![alt text](https://github.com/abrusebas1997/Final-project-ACS3510/blob/main/Spotify.jpeg)
 
 **Data clustering for spotify songs**
 
